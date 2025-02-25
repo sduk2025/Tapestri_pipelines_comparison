@@ -2,7 +2,7 @@
 # Batch - Compare Passed Variant Files
 
 # 
-#' @escription This function takes input variants list from the Tapestri and Optima pipelines,
+#' @description This function takes input variants list from the Tapestri and Optima pipelines,
 #' compares the two variant lists for any overlaps.It generates Venndiagram and Upset Plot and writes
 #' out text files - common, unique to each pipeline.
 #'
